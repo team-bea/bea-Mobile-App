@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "723113302401",
+    "firebase_url": "https://bea--breast-cancer-awareness.firebaseio.com",
+    "project_id": "bea--breast-cancer-awareness",
+    "storage_bucket": "bea--breast-cancer-awareness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723113302401:android:fdd80f625df2ee037ef080",
+        "android_client_info": {
+          "package_name": "com.girlshackathon.breastCancerAwareness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723113302401-dmt0ifpqi7imclgs0kokskfor5b3rqbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBPvoHM7bHTEYZKUWnKrA1C85zI5EZ2js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723113302401-dmt0ifpqi7imclgs0kokskfor5b3rqbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

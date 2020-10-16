@@ -1,0 +1,43 @@
+
+{
+  "treatment": [  {
+    "question": "¿Cuáles son los tratamientos para el cáncer de mama?",
+    "answer": "Hay diferentes tipos de tratamiento para el cáncer de mama. Lo que es mejor para usted depende del tipo de cáncer de mama y de sus necesidades y situación personales. Su equipo médico le ayudará a tomar decisiones sobre su tratamiento. También puede solicitar una segunda opinión de un médico diferente. La cirugía consiste en extirpar el seno y los ganglios linfáticos afectados, o parte de ellos. Esto se llama mastectomía. Puede ir seguido de una reconstrucción mamaria. La radioterapia utiliza rayos X de alta energía u otros tipos de rayos para destruir las células cancerosas en un área localizada. La quimioterapia implica el uso de medicamentos para destruir o desactivar las células cancerosas. La terapia hormonal es eficaz para los tipos de cáncer que necesitan la presencia de ciertos tipos de hormonas para crecer."
+  },
+    {
+      "question": "¿Qué es la reconstrucción mamaria?",
+      "answer": "Después de una mastectomía, puede optar por una reconstrucción mamaria realizada por un cirujano plástico. Esta es una forma de hacer que su seno se vea mas como estaba antes de la mastectomía. Es una decisión personal someterse o no a una reconstrucción mamaria. Existen diferentes tipos de reconstrucción mamaria y se puede realizar inmediatamente después de la mastectomía o en una fecha posterior, dependiendo de su situación."
+    }
+  ],"general": [
+  {
+    "question": "¿Qué es el cáncer de mama?",
+    "answer": "El cáncer de senos es el más común entre las mujeres. Un crecimiento incontrolado de células en la mama puede provocar un tumor. Existen diferentes tipos de tumores. Algunos son benignos, crecen lentamente y no se diseminan a otras partes del cuerpo. No se consideran cancerosos. Los tumores malignos crecen rápidamente y pueden diseminarse a otras partes del seno y del cuerpo. Se consideran cancerosos."
+  },
+  {
+    "question": "¿Cuáles son los diferentes tipos de cáncer de mama?",
+    "answer": "Hay varios tipos de tumores benignos de la mama. Estas afecciones benignas de la mama no se consideran cancerosas pero pueden aumentar el riesgo de cáncer de mama. Incluyen hiperplasia, quistes, fibroadenomas, etc. El carcinoma ductal in situ (DCIS) se desarrolla en los conductos lácteos y las células no han abandonado esta ubicación. Es por eso que se llama “in situ” ( “en su lugar”). A menudo se le llama 'preinvasivo' o 'precanceroso' porque aún no se ha propagado, pero puede convertirse en un cáncer invasivo. El cáncer de mama invasivo ocurre cuando las células se han diseminado a los tejidos cercanos en la mama. El primer lugar al que se diseminarán estas células son los ganglios linfáticos debajo de los brazos. El cáncer de mama metastásico ocurre cuando las células cancerosas se han diseminado más allá de la mama y los ganglios linfáticos debajo de los brazos. No es un tipo de cáncer de mama sino una etapa del cáncer de mama, la más avanzada y peligrosa (etapa IV)."
+  },
+  {
+    "question": "¿Cuáles son los factores de riesgo del cáncer de mama?",
+    "answer": "Varios factores de riesgo pueden conducir al cáncer de mama. Hay algunos factores que no podemos cambiar, como ser mujer, envejecer y ciertos factores relacionados con el historial médico personal y familiar. Otros factores que pueden aumentar el riesgo de cáncer de mama están relacionados con nuestro estilo de vida y, por tanto, bajo nuestro control: el consumo de alcohol, el sedentarismo, la alimentación poco saludable y el aumento de peso, son factores de riesgo."
+  },
+  {
+    "question": "¿Cuáles son las señales de advertencia del cáncer de mama?",
+    "answer": "Los cambios inusuales en el seno son una señal de advertencia de cáncer de seno y debe consultar a un doctor si ocurre alguno de estos: un bulto en el pecho o en la axila; hinchazón de todo o parte del pecho; irritación de la piel o hoyuelos; dolor en los senos; dolor en el pezón o el pezón girando hacia adentro; enrojecimiento, descamación o engrosamiento de la piel del pezón o la mama; una secreción del pezón que no sea la leche materna"
+  }
+  ],
+  "diagnosis": [ {
+    "question": "¿Cómo se diagnostica el cáncer de mama?",
+    "answer": "Si detecta uno o más de los signos de advertencia de cáncer de mama o se encuentra un área anormal en una mamografía, se recomendarán algunas pruebas de seguimiento. A menudo, no es cáncer de mama, pero estas pruebas son la única forma de saberlo con certeza. Algunas de las pruebas necesarias para llegar a un diagnóstico de cáncer de mama son una mamografía de diagnóstico, una resonancia magnética de mama, una ecografía de mama y una biopsia. Las biopsias extraen algunas células del área en cuestión para que un patólogo las estudie bajo un microscopio. El resultado de este análisis es el informe de patología, que puede traducir con BEA."
+  },
+    {
+      "question": "¿Cuáles son las etapas del cáncer de mama y cómo se calculan?",
+      "answer": "Los estadios del cáncer de mama van de 0 a IV (0-4). El estadio IV (4) es el cáncer con metástasis y es el más grave. El patólogo calcula el estadio de su cáncer con un sistema llamado sistema TNM. T = tamaño del tumor; N = Estado de los ganglios linfáticos (cuántos ganglios linfáticos tienen células cancerosas); M = metástasis (si el cáncer se ha diseminado a otras partes de su cuerpo). Se han agregado otras medidas desde 2018. Estas son el grado del tumor de 1 a 3 (qué tan similares son las células cancerosas a las células normales y qué tan rápido crecen las células cancerosas) y las medidas relacionadas con las hormonas (estrógeno, progesterona) y proteínas (estado de HER2)."
+    },
+    {
+      "question": "¿Qué encontraré en mi informe de patología?",
+      "answer": "Es una buena idea obtener una copia de su informe de patología para su registro y para consultarlo más adelante. A continuación se muestran los componentes principales del informe de patología. Algunos de ellos pueden estar presentes o no dependiendo de su situación. El diagnóstico es la parte más importante del informe. Le dará información sobre el tamaño, tipo, grado, sensibilidad hormonal, márgenes, etc. del tumor. También contendrá información sobre los ganglios linfáticos afectados. Puede incluirse el estadio del cáncer, pero no siempre es así. Otra información incluida es información del paciente, información sobre muestras y procedimientos, historial clínico, etc."
+    }],"followUp": [ {
+  "question": "¿Qué sucede después de que termina mi tratamiento?",
+  "answer": "Una vez que termine su tratamiento, deberá seguir haciendo visitas de seguimiento con su médico para controlar cualquier signo de recurrencia del cáncer. Por lo general, las visitas son cada 6 meses al principio y luego cada año. Es importante que informe a su médico si nota algo anormal."
+}]}

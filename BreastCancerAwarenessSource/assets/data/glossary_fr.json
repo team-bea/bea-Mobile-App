@@ -1,0 +1,164 @@
+[
+    {
+        "term": "Antalgique",
+        "meaning": "Médicament le plus utilisé pour lutter contre la douleur. Il existe 3 paliers permettant de classer les antalgiques, des moins puissants aux plus puissants. Le choix du médicament dépend donc en partie de l’intensité de la douleur.\nEnglish - Analgesic"
+    },
+    {
+        "term": "Biopsie",
+        "meaning": "Prélèvement qui consiste à enlever un petit morceau de tissu du sein afin de l’examiner au microscope par le pathologiste pour établir le diagnostic avec certitude. Le médecin peut réaliser une biopsie avec ou sans anesthésie (locale ou générale). Les techniques utilisées pour le prélèvement (chirurgie, ponction…) dépendent de l’endroit où est placée la tumeur et du type de tissu à analyser.\nEnglish - Biopsy"
+    },
+    {
+        "term": "Cancer ",
+        "meaning": "Cellules anormales qui se multiplient de façon incontrôlée. Elles finissent par former une masse qu'on appelle tumeur maligne.\nEnglish - Cancer"
+    },
+    {
+        "term": "Cancer du sein",
+        "meaning": "Tumeur maligne qui se développe au niveau du sein. Chaque sein est composé de quinze à vingt compartiments séparés par du tissu graisseux. Chacun de ces compartiments est constitué de lobules et de canaux. Le rôle des lobules est de produire le lait en période d’allaitement ; les canaux transportent ensuite le lait vers le mamelon. Il existe différents types de cancer du sein. Les plus fréquents (95%) se développent à partir des cellules des canaux (cancer canalaire) et des lobules (cancer lobulaire).\nEnglish - Breast Cancer"
+    },
+    {
+        "term": "Cancer Invasif",
+        "meaning": "On parle de cancer invasif ou infiltrant lorsque les cellules cancéreuses ont envahi les couches de tissus voisines de la tumeur.\nEnglish - Invasive cancer"
+    },
+    {
+        "term": "Cancer in situ",
+        "meaning": "On utilise le latin in situ ('resté en place') pour parler d’un cancer dont les cellules demeurent dans le tissu dans lequel elles se sont développées.\nEnglish - In situ cancer"
+    },
+    {
+        "term": "Cellule ",
+        "meaning": "Elément visible au microscope dont est constitué tout organisme vivant. Plantes et animaux sont composés de cellules très différentes qui se multiplient, meurent et se renouvellent. Des cellules identiques assemblées entre elles forment un tissu. Des cellules cancéreuses sont des cellules qui se sont modifiées et se multiplient de façon anormale.\nEnglish - Cell"
+    },
+    {
+        "term": "Chambre implantable",
+        "meaning": "Petit boitier placé sous la peau, au niveau de la poitrine et relié à un tuyau souple et fin, appelé cathéter, glissé dans une veine. Elle permet d’injecter un médicament dans le sang à travers la peau, telle que la chimiothérapie.\nEnglish - Implantable Port"
+    },
+    {
+        "term": "Chimiothérapie ",
+        "meaning": "Traitement qui agit sur l’ensemble du corps (traitement général) à l’aide de médicaments toxiques pour les cellules cancéreuses. Ces médicaments visent à les détruire ou à les empêcher de se multiplier. Les médicaments de chimiothérapie peuvent être administrés par piqûres, perfusions ou parfois, sous forme de comprimés.\nEnglish - Chemotherapy"
+    },
+    {
+        "term": "Chirurgie ",
+        "meaning": "Acte qui consiste à opérer un patient. Cette opération peut avoir pour but soit de prélever quelques cellules d’une anomalie afin de les analyser (biopsie), soit d’enlever la tumeur (traitement).\nEnglish - Surgery"
+    },
+    {
+        "term": "Chirurgie conservatrice",
+        "meaning": "Opération qui ne retire que la tumeur en conservant l’organe sur lequel le cancer s’est développé. On parle aussi de mastectomie partielle.\nEnglish - Breast-conserving Surgery"
+    },
+    {
+        "term": "Diagnostic ",
+        "meaning": "Démarche qui identifie la maladie à l’origine des signes ou des symptômes ressentis ou observés par le patient. Le diagnostic permet de reconnaître la maladie dont souffre le patient.\nEnglish - Diagnosis"
+    },
+    {
+        "term": "Diagnostic précoce",
+        "meaning": "Diagnostic d'une maladie au début de son développement.\nEnglish - Early Diagnosis"
+    },
+    {
+        "term": "Echographie ",
+        "meaning": "Examen qui permet de regarder l’intérieur du corps à travers la peau. Le médecin fait glisser sur la zone du corps à examiner une sonde qui produit des ultrasons (vibrations non audibles par l’oreille humaine). Quand ils rencontrent les organes, les ultrasons émettent un écho. Capté par un ordinateur, l’écho est transformé en images sur un écran.\nEnglish - Ecography"
+    },
+    {
+        "term": "Effet indésirable",
+        "meaning": "Conséquence prévisible et gênante d’un traitement survenant en plus de son effet souhaité. Les effets indésirables n’apparaissent pas de façon systématique mais dépendent des traitements reçus, de leur association avec d’autres traitements, des doses administrées, du type de cancer et de la façon dont la personne malade réagit. On les appelle aussi effets secondaires.\nEnglish - Side Effects"
+    },
+    {
+        "term": "Essai clinique",
+        "meaning": "Etude scientifique menée avec les patients, dont l’objectif est de rechercher de meilleures modalités de prise en charge du cancer. Un essai clinique peut porter sur la prévention, le dépistage, le diagnostic, un traitement ou la qualité de vie. Seuls les patients qui le souhaitent participent à un essai clinique. Ils doivent recevoir une information orale et écrite. A tout moment, ils peuvent revenir sur leur décision et quitter l’étude.\nEnglish - Clinical Trial"
+    },
+    {
+        "term": "Examen anatomopathologique",
+        "meaning": "Examen qui consiste à étudier des tissus ou des cellules prélevés sur un patient pour repérer et analyser des anomalies liées à une maladie. L’examen se fait d’abord à l’œil nu, puis au microscope. Cet examen permet d’établir le diagnostic de cancer et oriente le choix des traitements.\nEnglish - Pathology Report"
+    },
+    {
+        "term": "Examen clinique",
+        "meaning": "Moment de la consultation au cours duquel le médecin, après avoir posé des questions au patient, l’examine (auscultation, palpation, etc.).\nEnglish - Clinical Exam"
+    },
+    {
+        "term": "Hormone",
+        "meaning": "Substance produite naturellement par l'organisme pour assurer son bon fonctionnement.\nEnglish - Hormone"
+    },
+    {
+        "term": "Cancer hormonosensible",
+        "meaning": "Se dit d’un cancer dont la croissance est stimulée par des hormones. Certains cancers du sein sont hormonosensibles : la croissance de leurs cellules est activée par des hormones féminines, les œstrogènes. Une hormonothérapie permet alors de freiner ou de stopper le développement de ces cancers en bloquant l’action des œstrogènes.\nEnglish - Hormone-sensitive cancer or hormone-dependent cancer"
+    },
+    {
+        "term": "Imagerie",
+        "meaning": "Examen qui permet d'obtenir des images d'une partie du corps ou d'un organe. Il existe 2 types d'examens d'imagerie : les examens radiologiques (radiographie, échographie, scanner, IRM) et les examens de médecine nucléaire (scintigraphie, TEP).\nEnglish - Imaging"
+    },
+    {
+        "term": "IRM (Imagerie par Résonance Magnétique)",
+        "meaning": "Technique d’examen qui consiste à créer des images précises d’une partie du corps grâce à des ondes (comme les ondes radio) et un champ magnétique. Les images sont reconstituées par un ordinateur et interprétées par un radiologue.\nEnglish - MRI (Magnetic Resonance Imaging)"
+    },
+    {
+        "term": "Lymphoedème",
+        "meaning": "Gonflement du bras qui peut apparaitre à la suite de l’ablation ou d’une radiothérapie des ganglions situés au niveau de l’aisselle. Un lymphoedème est provoqué par le ralentissement ou le blocage de la circulation de la lymphe, liquide qui transporte les globules blancs et évacue les déchets des cellules. On parle aussi de 'gros bras'.\nEnglish -  lymphedema"
+    },
+    {
+        "term": "Mammographie",
+        "meaning": "Radiographie qui permet d’obtenir des images de la structure interne du sein.\nEnglish - Mammogram or mammography"
+    },
+    {
+        "term": "Mastectomie",
+        "meaning": "Opération chirurgicale qui consiste à enlever un sein dans sa totalité pour traiter un cancer du sein. Si seule la tumeur ou une partie du sein est enlevée on peut parler de mastectomie partielle ou de chirurgie conservatrice.\nEnglish - Mastectomy"
+    },
+    {
+        "term": "Métastase",
+        "meaning": "Tumeur formée par des cellules cancéreuses provenant d’une première tumeur. Ces cellules migrent dans d’autres parties du corps par l’intermédiaire des vaisseaux lymphatiques ou des vaisseaux sanguins. On parle également de maladie métastatique, ou de localisation/cancer secondaire.\nEnglish - Metastasis"
+    },
+    {
+        "term": "Moelle osseuse",
+        "meaning": "Substance qui se trouve à l’intérieur des os et qui produit les différentes cellules du sang (globules rouges qui transportent l’oxygène, globules blancs qui défendent l’organisme contre les infections et plaquettes qui arrêtent les saignements et permettent la cicatrisation).\nEnglish - Bone marrow"
+    },
+    {
+        "term": "Oncologue ",
+        "meaning": "Médecin spécialiste du cancer et de ses traitements, appelé aussi cancérologue. Ce peut être un oncologue médical (chimiothérapeute), un oncologue radiothérapeute, un chirurgien oncologue.\nEnglish - Oncologist"
+    },
+    {
+        "term": "Pathologiste",
+        "meaning": "Médecin spécialiste qui examine au microscope des cellules et des tissus prélevés sur le patient. Son rôle est déterminant pour le diagnostic et l’orientation du choix des traitements lors de la réunion de concertation pluridisciplinaire.  Il est aussi dénommé anatomo-cytopathologiste, anatomopathologiste ou 'anapath'.\nEnglish - Pathologist"
+    },
+    {
+        "term": "Radiothérapie",
+        "meaning": "Traitement local du cancer à l’aide d’un appareil qui émet des rayons. Ces rayons, dirigés vers la tumeur, la détruisent. Ils peuvent être émis par une source interne ou externe. Ce traitement se fait dans un service spécialisé de radiothérapie. On parle aussi de rayons ou de séances de rayons.\nEnglish - Radiotherapy"
+    },
+    {
+        "term": "Récidive ou rechute",
+        "meaning": "Réapparition de cellules cancéreuses, au même endroit ou dans une autre région du corps. Une récidive peut survenir très tôt après la fin des traitements, mais aussi après une longue période de rémission.\nEnglish - Recurrence"
+    },
+    {
+        "term": "Scanner",
+        "meaning": "Examen qui permet d’obtenir des images du corps à l’aide de rayons X. C’est un type de radiographie dont les images sont reconstituées par ordinateur et grâce auxquelles on peut faire une analyse précise de différentes régions du corps. Les radiologues parlent aussi de tomodensitomètre, abrégé en TDM.\nEnglish - CT Scan"
+    },
+    {
+        "term": "Scintigraphie",
+        "meaning": "Technique d’examen qui permet d’obtenir des images du fonctionnement de différents organes. Cette technique d’imagerie utilise des produits faiblement radioactifs qui, une fois injectés, se fixent sur l'organe concerné et sont repérés par une caméra spéciale : une gamma-caméra.\nEnglish - Scintigraphy"
+    },
+    {
+        "term": "Soins de support",
+        "meaning": "Ensemble des soins et soutiens nécessaires aux personnes malades, parallèlement aux traitements spécifiques contre la maladie. Ils n'ont pas pour objectif de guérir, mais de soigner les symptômes, de soulager les conséquences psychiques et/ou psychologiques de la maladie et des traitements : douleur, dénutrition, souffrance morale notamment. Ces soins font intervenir différents professionnels de santé spécialisés : spécialiste de la douleur, psychologue, diététicienne, assistante sociale, etc.\nEnglish - Supportive Care"
+    },
+    {
+        "term": "Système immunitaire",
+        "meaning": "Le système immunitaire a pour rôle de défendre l'organisme contre les infections. Lorsqu'il est envahi par un organisme étranger (virus, bactérie) ou par des molécules étrangères (celles du pollen, par ex.), le système immunitaire réagit très vite pour s’en débarrasser. A la différence d'autres systèmes, le système immunitaire est constitué de cellules isolées qui ne constituent pas des tissus. Les cellules de l'immunité sont les globules blancs, qui se forment dans la moelle osseuse.\nEnglish - Immune system"
+    },
+    {
+        "term": "Technique du ganglion sentinelle",
+        "meaning": "Technique qui consiste à retirer par chirurgie le ganglion le plus proche de la tumeur (appelé ganglion sentinelle) afin de l’analyser pour savoir s’il contient des cellules cancéreuses. Cette technique permet d’éviter de retirer la totalité des ganglions si ce n’est pas nécessaire et donc de limiter le risque de lymphoedème, notamment.\nEnglish - Sentinel lymph node biopsy (SLNB)"
+    },
+    {
+        "term": "Thérapie ciblée",
+        "meaning": "Traitement à l’aide de médicaments qui, selon la cible, visent à freiner ou à bloquer la croissance de la cellule cancéreuse. Elle présente donc moins d’effets secondaires,  tout en possédant une importante efficacité.\nEnglish - Targeted therapy"
+    },
+    {
+        "term": "Tumeur",
+        "meaning": "Masse ou grosseur liée à une multiplication anormale de cellules. Il existe des tumeurs bénignes et des tumeurs malignes.\nEnglish - Tumor"
+    },
+    {
+        "term": "Tumeur bénigne",
+        "meaning": "C’est une tumeur dont l'évolution spontanée, strictement locale, n'aboutit pas à des métastases.\nEnglish - Benign Tumor"
+    },
+    {
+        "term": "Tumeur maligne",
+        "meaning": "Tumeur constituée de cellules cancéreuses.\nEnglish - Malignant Tumor"
+    }
+
+
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "term": "Analgesic",
+        "meaning": "The drug most commonly used for pain relief. There are 3 levels to classify analgesics, from the least powerful to the most powerful. The choice of medication therefore depends in part on the intensity of the pain."
+    },
+    {
+        "term": "Biopsy",
+        "meaning": "A sample which involves removing a small piece of tissue from the breast in order to examine it under a microscope by the pathologist to establish the diagnosis with certainty. The doctor can perform a biopsy with or without anesthesia (local or general). The techniques used for the sample (surgery, puncture, etc.) depend on the location where the tumor is placed and the type of tissue to be analyzed."
+    },
+    {
+        "term": "Cancer",
+        "meaning": "Abnormal cells that multiply in an uncontrolled fashion. They eventually form a mass called a malignant tumor."
+    },
+    {
+        "term": "Breast Cancer",
+        "meaning": "Malignant tumor that develops in the breast. Each breast is made up of fifteen to twenty compartments separated by fatty tissue. Each of these compartments consists of lobules and canals. The role of the lobules is to produce milk during breastfeeding; the ducts then transport the milk to the nipple. There are different types of breast cancer. The most common (95%) develop from the cells of the ducts (ductal cancer) and lobules (lobular cancer)."
+    },
+    {
+        "term": "Invasive cancer",
+        "meaning": "We speak of invasive or infiltrating cancer when cancer cells have invaded the layers of tissue surrounding the tumor."
+    },
+    {
+        "term": "In situ cancer",
+        "meaning": "The Latin in situ  is used ('stayed in place') to refer to a cancer whose cells remain in the tissue in which they developed."
+    },
+    {
+        "term": "Cell",
+        "meaning": "Element visible under the microscope of which all living organisms are made. Plants and animals are made up of very different cells that multiply, die and renew themselves. Identical cells assembled together form a tissue. Cancer cells are cells that have changed and are multiplying in an abnormal way."
+    },
+    {
+        "term": "Implantable Port",
+        "meaning": "Small box placed under the skin, at chest level and connected to a flexible and thin tube, called a catheter, slipped into a vein. It injects a medicine into the blood through the skin, such as chemotherapy."
+    },
+    {
+        "term": "Chemotherapy",
+        "meaning": "Treatment that works on the whole body (general treatment) with drugs that are toxic to cancer cells. These drugs aim to destroy them or prevent them from multiplying. Chemotherapy drugs can be given by injections, infusions, or sometimes, as tablets."
+    },
+    {
+        "term": "Surgery",
+        "meaning": "The act of operating on a patient. The purpose of this operation may be to either remove a few cells of an abnormality for analysis (biopsy), or to remove the tumor (treatment)."
+    },
+    {
+        "term": "Breast-conserving Surgery",
+        "meaning": "Operation that only removes the tumor, leaving the organ on which the cancer has grown. It is also called a partial mastectomy."
+    },
+    {
+        "term": "Diagnosis",
+        "meaning": "Procedure that identifies the disease causing the signs or symptoms felt or observed by the patient. The diagnosis makes it possible to recognize the disease from which the patient is suffering."
+    },
+    {
+        "term": "Early Diagnosis",
+        "meaning": "Diagnosis of a disease early in its development."
+    },
+    {
+        "term": "Ecography",
+        "meaning": "An examination that looks at the inside of the body through the skin. The doctor slides a probe over the area of the body to be examined which produces ultrasound (vibrations not audible to the human ear). When it meets an organ, the ultrasound emits an echo. Captured by a computer, the echo is transformed into images on a screen."
+    },
+    {
+        "term": "Side Effects",
+        "meaning": "Predictable and troublesome consequence of treatment occurring in addition to its desired effect. Side effects do not appear systematically but depend on the treatments received, their combination with other treatments, the doses given, the type of cancer and how the sick person reacts."
+    },
+    {
+        "term": "Clinical Trial",
+        "meaning": "Scientific study conducted with patients, with the objective to find better methods of cancer management. A clinical trial can focus on prevention, screening, diagnosis, treatment or quality of life. Only patients who wish to do so, participate in a clinical trial. They must receive oral and written information. At any time, they can reverse their decision and quit the study."
+    },
+    {
+        "term": "Pathology Report",
+        "meaning": "An examination that involves studying tissues or cells taken from a patient to identify and analyze abnormalities related to a disease. The examination is done first with the naked eye, then under a microscope. This examination makes it possible to establish the diagnosis of cancer and guides the choice of treatments."
+    },
+    {
+        "term": "Clinical Exam",
+        "meaning": "Moment of the consultation during which the doctor, after asking the patient questions, examines them (auscultation, palpation, etc.)."
+    },
+    {
+        "term": "Hormone",
+        "meaning": "Substance produced naturally by the body to ensure its proper functioning."
+    },
+    {
+        "term": "Hormone-sensitive cancer or hormone-dependent cancer",
+        "meaning": "Refers to cancer whose growth is stimulated by hormones. Some breast cancers are hormone-sensitive: the growth of their cells is activated by female hormones, estrogen. Hormone therapy then makes it possible to slow down or stop the development of these cancers by blocking the action of estrogen."
+    },
+    {
+        "term": "Imaging",
+        "meaning": "Examination that allows you to obtain images of a part of the body or an organ. There are 2 types of imaging exams: radiological exams (radiography, ultrasound, CT Scan, MRI) and nuclear medicine exams (scintigraphy, PET)."
+    },
+    {
+        "term": "MRI (Magnetic Resonance Imaging)",
+        "meaning": "An examination technique that involves creating precise images of a part of the body using waves (such as radio waves) and a magnetic field. The images are reconstructed by a computer and interpreted by a radiologist."
+    },
+    {
+        "term": "Lymphedema",
+        "meaning": "Swelling in the arm which may appear after the lymph nodes in the armpit have been removed or received radiation therapy. Lymphedema is caused by slowing or blocking the flow of lymph, the fluid that carries white blood cells and removes waste products from cells."
+    },
+    {
+        "term": "Mammogram or Mammography",
+        "meaning": "X-ray which allows to see images of the internal structure of the breast."
+    },
+    {
+        "term": "Mastectomy",
+        "meaning": "Surgery that removes an entire breast to treat breast cancer. If only the tumor or part of the breast is removed, we can speak of partial mastectomy or conservative surgery."
+    },
+    {
+        "term": "Metastasis",
+        "meaning": "Tumor formed by cancer cells from a first tumor. These cells migrate to other parts of the body through lymphatic vessels or blood vessels. We also speak of metastatic disease, or secondary localization / cancer."
+    },
+    {
+        "term": "Bone marrow",
+        "meaning": "A substance found inside bones and which produces the various blood cells (red blood cells which carry oxygen, white blood cells which defend the body against infections, and platelets which stop bleeding and allow healing)."
+    },
+    {
+        "term": "Oncologist",
+        "meaning": "Doctor who specializes in cancer and its treatments. It can be a medical oncologist (chemotherapist), a radiotherapist oncologist, an oncologist surgeon."
+    },
+    {
+        "term": "Pathologist",
+        "meaning": "Specialist doctor who examines cells and tissues taken from the patient under a microscope. Their role is decisive for the diagnosis and the orientation of the choice of treatments during the multidisciplinary consultation meeting. They are also called anatomo-cytopathologist or anatomopathologist."
+    },
+    {
+        "term": "Radiotherapy",
+        "meaning": "Local treatment of cancer using a device that emits radiation. These rays, directed at the tumor, destroy it. They can be emitted by an internal or external source. This treatment is performed in a specialized radiotherapy department. "
+    },
+    {
+        "term": "Recurrence",
+        "meaning": "Recurrence of cancer cells, in the same place or in another region of the body. A relapse can occur very soon after the end of treatment, but also after a long period of remission."
+    },
+    {
+        "term": "CT Scan",
+        "meaning": "An examination that takes images of the body using x-rays. This is a type of x-ray in which the images are reconstructed by computer and which allow precise analysis of different areas of the body. Radiologists also speak of a tomodensitometer, abbreviated as CT."
+    },
+    {
+        "term": "Scintigraphy",
+        "meaning": "An examination technique that allows to obtain images of the functioning of different organs. This imaging technique uses weakly radioactive products which, once injected, bind to the organ concerned and are identified by a special camera: a gamma camera."
+    },
+    {
+        "term": "Supportive Care",
+        "meaning": "All the care and support necessary for sick people, in addition to specific treatments against the disease. Their objective is not to cure, but to treat the symptoms, to relieve the psychic and / or psychological consequences of the disease and the treatments: pain, undernutrition, mental suffering in particular. This care involves various specialized health professionals: pain specialist, psychologist, dietitian, social worker, etc."
+    },
+    {
+        "term": "Immune system",
+        "meaning": "The role of the immune system is to defend the body against infections. When invaded by a foreign organism (virus, bacteria) or by foreign molecules (such as pollen, for example), the immune system reacts very quickly to get rid of them. Unlike other systems, the immune system is made up of isolated cells that are not tissue. The cells of immunity are white blood cells, which are formed in the bone marrow."
+    },
+    {
+        "term": "Sentinel lymph node biopsy (SLNB)",
+        "meaning": "A technique that involves surgery to remove the node closest to the tumor (called a sentinel node) in order to analyze it for cancer cells. This technique avoids removing all of the nodes if it is not necessary and therefore limits the risk of lymphedema, in particular."
+    },
+    {
+        "term": "Targeted therapy",
+        "meaning": "Treatment with drugs which, depending on the target, are intended to slow down or block the growth of the cancer cell. It therefore has fewer side effects, while having significant effectiveness."
+    },
+    {
+        "term": "Tumor",
+        "meaning": "A mass or size associated with an abnormal multiplication of cells. There are benign tumors and malignant tumors."
+    },
+    {
+        "term": "Benign Tumor",
+        "meaning": "It is a tumor whose spontaneous evolution, strictly local, does not lead to metastases."
+    },
+    {
+        "term": "Malignant Tumor",
+        "meaning": "Tumor made up of cancer cells."
+    }
+]

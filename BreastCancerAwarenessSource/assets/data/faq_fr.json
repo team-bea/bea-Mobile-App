@@ -1,0 +1,41 @@
+{
+  "treatment": [  {
+    "question": "Quels sont les traitements pour le cancer du sein ?",
+    "answer": "Il existe différents types de traitement pour le cancer du sein. Ce qui vous convient le mieux dépend du type de cancer du sein, de vos besoins personnels et de votre situation. Votre équipe médicale vous aidera à prendre des décisions concernant votre traitement. Vous pouvez également en demander un deuxième avis d'un autre médecin. La chirurgie consiste à enlever le sein et les ganglions lymphatiques affectés, ou une partie de ceux-ci. On appelle ceci  une mastectomie. Elle peut être suivie d'une reconstruction mammaire. La radiothérapie utilise des rayons X à haute énergie ou d'autres types de rayons pour tuer les cellules cancéreuses dans une zone localisée. La chimiothérapie implique l'utilisation de médicaments pour tuer ou désactiver les cellules cancéreuses. L'hormonothérapie est efficace pour les types de cancer qui nécessitent la présence de certains types d'hormones pour se développer."
+  },
+    {
+      "question": "Qu'est-ce que la reconstruction mammaire?",
+      "answer": "Après une mastectomie, vous pouvez opter pour une reconstruction mammaire réalisée par un chirurgien plasticien. C'est une façon de rendre votre sein plus semblable a avant la mastectomie. C'est un choix personnel de se soumettre a une reconstruction mammaire ou non. Il existe différentes types de reconstruction mammaire et elle peut être effectuée immédiatement après la mastectomie ou à une date ultérieure, selon votre situation."
+    }
+  ],"general": [
+  {
+    "question": "Qu’est-ce que le cancer du sein ?",
+    "answer": "Le cancer du sein est le cancer le plus courant chez les femmes. Une croissance incontrôlée de cellules dans le sein peut provoquer une tumeur. Il existe différents types de tumeurs. Certains sont bénignes, ils poussent lentement et ne se propagent pas à d'autres parties du corps. Ils ne sont pas considérés comme cancéreux. Les tumeurs malignes se développent rapidement et peuvent se propager à d'autres parties du sein et du corps. Ils sont considérés comme cancéreux."
+  },
+  {
+    "question": "Quels sont les différents types de cancer du sein?",
+    "answer": "Il existe plusieurs types de tumeurs bénignes du sein. Ces affections bénignes du sein ne sont pas considérées comme cancéreuses mais peuvent augmenter le risque de cancer du sein. Elles comprennent l'hyperplasie, les kystes, les fibroadénomes, etc. Le carcinome canalaire in situ (CCIS) se développe dans les canaux lactifères et les cellules n'ont pas quitté cet endroit. C'est pourquoi on l'appelle «in situ» («en place»). Il est souvent appelé «pré-invasif» ou «précancéreux» car il ne s'est pas encore propagé mais peut évoluer en cancer invasif. Le cancer du sein invasif survient lorsque les cellules se sont propagées aux tissus voisins du sein. Le premier endroit où ces cellules vont se propager sont les ganglions lymphatiques sous les bras. Le cancer du sein métastatique survient lorsque les cellules cancéreuses se sont propagées au-delà du sein et des ganglions lymphatiques sous les bras. Ce n'est pas un type de cancer du sein mais un stade de cancer du sein, le plus avancé et le plus dangereux (stade IV)."
+  },
+  {
+    "question": "Quels sont les facteurs de risque du cancer du sein ?",
+    "answer": "Plusieurs facteurs de risque peuvent conduire au cancer du sein. Il y a certains facteurs que nous ne pouvons pas changer comme être une femme, vieillir et certains facteurs liés aux antécédents médicaux personnels et familiaux. D'autres facteurs pouvant augmenter le risque de cancer du sein sont liés à notre mode de vie et donc en notre contrôle: consommation d'alcool, sédentarité, mauvaise alimentation et prise de poids, sont tous des facteurs de risque."
+  },
+  {
+    "question": "Quels sont les signes avant-coureurs du cancer du sein?",
+    "answer": "Des changements inhabituels au sein sont un signe avant-coureur du cancer du sein et vous devriez consulter un medecin si l'un de ces événements se produit: une boule au niveau du sein ou des aisselles; gonflement de tout ou partie du sein; irritation cutanée ou capitonnage; douleur mammaire; douleur au mamelon ou mamelon tourné vers l'intérieur; rougeur, desquamation ou épaississement de la peau du mamelon ou du sein; un écoulement de mamelon autre que le lait maternel"
+  }],
+  "diagnosis": [{
+    "question": "Comment le cancer du sein est-il diagnostiqué ?",
+    "answer": "Si vous détectez un ou plusieurs des signes avant-coureurs d'un cancer du sein ou si une zone anormale est détectée lors d'une mammographie, certains tests de suivi seront conseillés. Souvent, ce n'est pas un cancer du sein, mais ces tests sont le seul moyen de le savoir avec certitude. Certains des tests nécessaires pour établir un diagnostic de cancer du sein sont une mammographie diagnostique, une IRM mammaire, une échographie mammaire et une biopsie. Les biopsies prélèvent quelques cellules de la zone concernée pour être étudiées par un pathologiste au microscope. Le résultat de cette analyse est le bilan anatonomopathologique, que vous pouvez traduire avec BEA."
+  },
+    {
+      "question": "Quels sont les stades du cancer du sein et comment sont-ils calculés?",
+      "answer": "Les stades du cancer du sein vont de 0 à IV (0-4). Le stade IV (4) est un cancer avec métastases et est le plus grave. Le stade de votre cancer est calculé par votre pathologiste avec un système appelé système TNM. T = taille de la tumeur; N = État des ganglions lymphatiques (combien de ganglions lymphatiques ont des cellules cancéreuses); M = métastases (si le cancer s'est propagé à d'autres parties de votre corps). D'autres mesures ont été ajoutées depuis 2018. Il s'agit du grade de la tumeur de 1 à 3 (la similitude des cellules cancéreuses avec les cellules normales et la vitesse de croissance des cellules cancéreuses) et les mesures liées aux hormones (œstrogène, progestérone), et protéines (statut HER2)."
+    },
+    {
+      "question": "Que vais-je trouver dans mon bilan anatomopathologique?",
+      "answer": "C’est toujours une bonne idée d’obtenir une copie de votre rapport de pathologie pour votre dossier et pour vous y référer plus tard. Voici les principaux éléments du rapport de pathologie. Certains parties peuvent être présentes ou non selon votre situation. Le diagnostic est la partie la plus importante du rapport. Il vous donnera des informations sur la taille, le type, le grade, la sensibilité hormonale, les marges, etc. de la tumeur. Il contiendra également des informations sur les ganglions lymphatiques touchés. Le stade du cancer peut être inclus, mais ce n'est pas toujours le cas. D'autres informations incluses sont les informations sur le patient, les informations sur les échantillons et la procédure, les antécédents cliniques, etc."
+    }],"followUp": [ {
+  "question": "Que se passe-t-il une fois mon traitement terminé?",
+  "answer": "Une fois votre traitement terminé, vous devrez continuer à faire des visites de suivi avec votre médecin pour surveiller tout signe de récidive du cancer. Habituellement, les visites ont lieu tous les 6 mois au début, puis chaque année. Il est important d'informer votre médecin si vous remarquez quelque chose d'anormal."
+}]}
